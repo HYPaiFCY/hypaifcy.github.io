@@ -11,4 +11,4 @@ I'm a first year master student from [School of Cyberspace Security](https://cyb
 
 I am very fortunate to be advised by [Prof. Jia](https://cyber.seu.edu.cn/jj/list.htm) and [PhD. Yu](https://rkxuan.github.io/homepage/) from [School of Cyberspace Security]([https://cyber.seu.edu.cn/]), Southeast University.
 
-[Email](yipenghou@stu.pku.edu.cn) / [Github](https://github.com/HYPaiFCY)
+[Email](yipenghou@seu.edu.cn) / [Github](https://github.com/HYPaiFCY)
